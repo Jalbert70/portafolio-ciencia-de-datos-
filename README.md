@@ -19,7 +19,8 @@ Este repositorio contiene una colección de notebooks realizados en el marco de 
 
 ## 🛠️ Herramientas utilizadas
 
-- Python 🐍  
+- Python 🐍
+- SQL
 - Pandas 📊  
 - NumPy 🔢  
 - Matplotlib & Seaborn 📈  
