@@ -1,0 +1,15 @@
+# 🔍 01 - Análisis Exploratorio de Datos
+
+Este notebook representa mi primer acercamiento al análisis de datos usando Python y Pandas. Se enfoca en:
+
+- Lectura de datos con Pandas
+- Revisión de tipos de datos y estructura
+- Estadísticas descriptivas básicas
+- Análisis inicial de valores faltantes
+
+## 📁 Archivo incluido
+- Analisis_exploratorio.ipynb
+
+## 🧠 Aprendizajes
+- Fundamentos del análisis de datos
+- Primer uso práctico de Jupyter Notebook y librerías como Pandas
