@@ -23,4 +23,4 @@ Este repositorio contiene una colección de proyectos desarrollados durante mi f
 ---
 
 💬 Estoy abierto a sugerencias o feedback sobre los proyectos.  
-📫 Puedes contactarme en LinkedIn: [tu enlace aquí]
+📫 Puedes contactarme en LinkedIn: https://www.linkedin.com/in/juan-alberto-quiroz-gonzales-725a4570/
